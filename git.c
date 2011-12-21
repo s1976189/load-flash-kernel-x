@@ -13,3 +13,4 @@ gir branch new//创建新版本
 git checkout new//切换daoxin版本
 git branch -D new
 
+ssh git at github.com
