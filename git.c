@@ -6,3 +6,4 @@ git tag 01 HEAD
 599  git add .
 git init 
 git diff
+git lost-found
