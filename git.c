@@ -7,3 +7,9 @@ git tag 01 HEAD
 git init 
 git diff
 git lost-found
+
+git branch
+gir checkout new
+git checkout new
+git branch -D new
+
